@@ -6,7 +6,7 @@ import pyautogui
 import time
 import pandas as pd
 
-load_dotenv()
+
 time.sleep(3)
 pyautogui.PAUSE=1
 pytesseract.pytesseract.tesseract_cmd = "C:/tesseract/tesseract.exe"
