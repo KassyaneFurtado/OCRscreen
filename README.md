@@ -1,8 +1,8 @@
-#OCRscreen
+# OCRscreen
 
-#####Este projeto realiza a extração de dados de um software ou arquivo, utilizando a biblioteca pytesseract para reconhecimento de texto em imagens.
+##### Este projeto realiza a extração de dados de um software ou arquivo, utilizando a biblioteca pytesseract para reconhecimento de texto em imagens.
 
-##Pré-requisitos
+## Pré-requisitos
 
 ##### Certifique-se de ter o Python instalado em seu ambiente. Você pode baixá-lo em [python.org](https://www.python.org/)
 ##### Além disso, você precisará algumas bibliotecas. Instale-as pelo terminal utilizando os seguintes comandos:
